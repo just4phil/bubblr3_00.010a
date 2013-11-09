@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <entry-point class="de.philweb.bubblr3.client.GwtLauncher"/>
+    <set-configuration-property name="gdx.assetpath" value="../bubblr3-android/assets"/>
+    <inherits name="com.badlogic.gdx.backends.gdx_backends_gwt"/>
+</module>
